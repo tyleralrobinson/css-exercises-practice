@@ -1,20 +1,21 @@
 .classpink, .coolerpink{
     background-color: pink;
     font-size: 18px;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 
 .coolerpink {
-    font-size: 40px;
+    font-size: 24px;
 }
 
 #blueid {
     color: blue;
-    font-size: 48px;
+    font-size: 36px;
 
 }
 
 #lightgreenid {
     background-color: lightgreen;
     font-weight: bold;
-    font-size: 32px;
+    font-size: 24px;
 }
