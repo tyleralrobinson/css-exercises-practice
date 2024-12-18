@@ -1,0 +1,20 @@
+.classpink, .coolerpink{
+    background-color: pink;
+    font-size: 18px;
+}
+
+.coolerpink {
+    font-size: 40px;
+}
+
+#blueid {
+    color: blue;
+    font-size: 48px;
+
+}
+
+#lightgreenid {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 32px;
+}
