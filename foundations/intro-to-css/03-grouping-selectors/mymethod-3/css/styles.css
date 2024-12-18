@@ -1,0 +1,12 @@
+.button1, .button2 {
+    border-color:black;
+}
+
+.button1 {
+    background-color: black;
+    color: white;
+}
+
+.button2 {
+    background-color: yellow;
+}
